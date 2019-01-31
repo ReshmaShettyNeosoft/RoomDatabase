@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="db_name">EmployeeDatabase</string>
+</resources>
